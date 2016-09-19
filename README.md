@@ -20,3 +20,6 @@ Save & Run it.
 A script to connect adb through Wi-fi.<br>
 Replace ip which is shown in your device..<br>
 Save & Run It.
+* <b>[nginx-fix.sh](https://github.com/surya-yogi/Bash-Scripts/blob/master/nginx-fix.sh)</B><br>
+A script that simply fixes the unknown nginx internal server error 500 by restarting nginx.<br>
+Create a sudo chron job with small intervals..<br>
